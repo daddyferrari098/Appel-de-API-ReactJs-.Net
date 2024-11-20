@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|c:\\users\\princ\\onedrive\\bureau\\preparation entretien\\mystoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|c:\\users\\princ\\onedrive\\bureau\\preparation entretien\\mystoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|c:\\users\\princ\\onedrive\\bureau\\preparation entretien\\mystoreapi\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|solutionrelative:models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|c:\\users\\princ\\onedrive\\bureau\\preparation entretien\\mystoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CB0A78-89AF-4098-BBE3-8A48468D7EDF}|MyStoreAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:48:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Models\\Produit.cs",
+              "RelativeToolTip": "Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:43:52.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:40:58.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Bureau\\preparation entretien\\MyStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:40:54.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
